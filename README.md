@@ -7,9 +7,9 @@ I’m a data analyst specialized in building interactive dashboards, automating 
 
 What I do best:
 
-/Design dynamic Power BI dashboards
-/Automate data pipelines (Python, APIs, GitHub, cron jobs)
-/Build custom apps and process flows (Power Apps & Automate)
+/Design dynamic Power BI dashboards<br> 
+/Automate data pipelines (Python, APIs, GitHub, cron jobs)<br> 
+/Build custom apps and process flows (Power Apps & Automate)<br> 
 /Optimize for data integrity & performance
 
 - 🔭 I’m currently working on AWS Developer Associate and PowerBI Data Analyst (PL300) Certifications, Working on a project with UCLA on Data science models
