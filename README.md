@@ -7,7 +7,7 @@ I’m a data analyst specialized in building interactive dashboards, automating 
 - 🔭 I’m currently working on AWS Developer Associate and PowerBI Data Analyst (PL300) Certifications, Working on a project with UCLA on Data science models
 - 🌱 I’m currently learning Tableau and Data Engineering
 
-Looking for a data-driven problem solver? Let’s connect!
+Looking for a data-driven problem solver? Let’s connect!<br> 
 📫 How to reach me: zuniga.hiram@cetys.edu.mx 
 
 
