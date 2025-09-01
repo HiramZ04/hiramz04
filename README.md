@@ -1,6 +1,6 @@
 ## Hi there 👋,  my name is Hiram!
 
-## About me :suspect: <br> 
+## About me<br> 
 ​I help companies make smarter decisions with data.<br> 
 I’m a data analyst specialized in building interactive dashboards, automating reporting, and developing end-to-end data solutions with Power BI, Python, SQL, Power Apps, and Power Automate.
 
