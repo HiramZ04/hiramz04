@@ -5,7 +5,7 @@
 I’m a data analyst specialized in building interactive dashboards, automating reporting, and developing end-to-end data solutions with Power BI, Python, SQL, Power Apps, and Power Automate.
 
 - 🔭 I’m currently working on AWS Developer Associate and PowerBI Data Analyst (PL300) Certifications
--  🌱 I’m currently learning Tableau and Data Engineering
+-  🌱 I’m currently learning Quantum Computing and AWS
 - 📍 Based on San Diego, California
 
 Looking for a data-driven problem solver? Let’s connect!<br> 
